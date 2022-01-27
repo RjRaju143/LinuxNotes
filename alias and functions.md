@@ -30,6 +30,7 @@ fullupdate(){
         echo ""
         return
 }
+fullupdate
 ```
 -  __output :__
 ```
@@ -52,6 +53,7 @@ server(){
         python3 -m http.server 80
         return
 }
+server
 ```
 -  __output :__
 ```
@@ -71,6 +73,7 @@ lserver(){
         python -m SimpleHTTPServer 80
         return
 }
+lserver
 ```
 -  __output :__
 ```
@@ -94,6 +97,7 @@ allip(){
         echo ""
         return
 }
+allip
 ```
 -  __output :__
 ```
