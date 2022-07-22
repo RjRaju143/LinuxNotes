@@ -1,5 +1,5 @@
 
-# SQL [ d3 d3 76 26 07 53 23 65 76 76 d6 95 d4 24 34 56 77 86 23 55 | reverse ];
+# SQL;
 
 # Create a DataBase;
 * The CREATE DATABASE statement is used to create a new SQL database.
